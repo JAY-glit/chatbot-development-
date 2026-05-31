@@ -40,5 +40,5 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-**JAY (Alladi Jaydurga)**
+**JAY (Alladi Jaydurga)**  
 📧 jaydurga1290@gmail.com · [LinkedIn](https://www.linkedin.com/in/jaydurga) · [GitHub](https://github.com/jaydurga1290-dot)
